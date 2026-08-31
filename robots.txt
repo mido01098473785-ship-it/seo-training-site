@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mido01098473785-ship-it.github.io/seo-training-site/sitemap.xml
